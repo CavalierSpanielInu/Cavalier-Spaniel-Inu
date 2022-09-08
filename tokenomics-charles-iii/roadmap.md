@@ -2,12 +2,11 @@
 description: >-
   Stay on top of everything that is being delivered by the team, and about the
   development of the project
+cover: ../.gitbook/assets/capa gitbook.PNG
 coverY: 0
 ---
 
-# Roadmap
-
-
+# 👑 Roadmap
 
 ## PHASE 1
 
@@ -16,8 +15,6 @@ coverY: 0
 * Website Launch
 * Community growth and development
 * Stealth launch: Smart Contract Creation
-
-
 
 ## PHASE 2
 
@@ -28,8 +25,6 @@ coverY: 0
 * Pancake swap launch
 * Airdrop
 
-
-
 ## PHASE 3
 
 * Influencer Marketing Push
@@ -37,8 +32,6 @@ coverY: 0
 * CoinGecko, CoinmarketCap Listing
 * Community events
 * Dextools & Poocoin Banner Ads
-
-
 
 ## PHASE 4
 

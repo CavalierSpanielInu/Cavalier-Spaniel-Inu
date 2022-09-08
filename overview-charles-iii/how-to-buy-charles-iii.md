@@ -1,8 +1,9 @@
 ---
+cover: ../.gitbook/assets/capa gitbook.PNG
 coverY: 0
 ---
 
-# How to buy Shih-Tzu ?
+# 🐶 How to buy  Charles III ?
 
 &#x20;**1. Step: Install Metamask for Chrome**
 
@@ -16,6 +17,6 @@ Once you have setup metamask, you can send BNB from an exchange like Kraken, Coi
 
 Go to [**PANCAKESWAP.Finance**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xE4FAE3Faa8300810C835970b9187c268f55D998F) and click the "Connect" button. When Metamask asks for your signature, go ahead and sign it.
 
-#### 🐶4. Step: Swap your BNB for Shih-Tzu&#x20;
+#### 🐶4. Step: Swap your BNB for Charles III&#x20;
 
-Now you can swap your BNB for Shih-Tzu . Set your slippage to 5-6% . Click on the Swap Button to finalize your trade.
+Now you can swap your BNB for Charles III . Set your slippage to 5-6% . Click on the Swap Button to finalize your trade.

@@ -2,24 +2,30 @@
 
 * [🐶 Cavalier Spaniel Inu](README.md)
 
-## Group 1
+## Overview Charles III
 
-* [About Shih-Tzu Inu](group-1/about-shih-tzu-inu.md)
-* [Shih-Tzu Inu wallet](group-1/shih-tzu-inu-wallet.md)
-* [Shih-Tzu Inu Blockchain](group-1/shih-tzu-inu-blockchain.md)
-* [How to buy Shih-Tzu ?](group-1/how-to-buy-shih-tzu.md)
+* [👑 About Cavalier Spaniel Inu](overview-charles-iii/about-cavalier-spaniel-inu.md)
+* [🐶 Cavalier Spaniel Inu wallet](overview-charles-iii/cavalier-spaniel-inu-wallet.md)
+* [👑 Cavalier Spaniel Inu Blockchain](overview-charles-iii/cavalier-spaniel-inu-blockchain.md)
+* [🐶 How to buy  Charles III ?](overview-charles-iii/how-to-buy-charles-iii.md)
 
 ## Tokenomics Charles III
 
-* [Allocation](tokenomics-charles-iii/allocation.md)
-* [Shih-Tzu Inu fees](tokenomics-charles-iii/shih-tzu-inu-fees.md)
-* [Roadmap](tokenomics-charles-iii/roadmap.md)
+* [👑 Allocation](tokenomics-charles-iii/allocation.md)
+* [🐶 Cavalier Spaniel Inu fees](tokenomics-charles-iii/cavalier-spaniel-inu-fees.md)
+* [👑 Roadmap](tokenomics-charles-iii/roadmap.md)
 
-## Group 2
+## SAFU/ KYC/AUDIT&#x20;
 
-* [Page 1](group-2/page-1.md)
+* [🕵♀ BSC Contract](safu-kyc-audit/bsc-contract.md)
+* [🕵 SAFU Certificate](safu-kyc-audit/safu-certificate.md)
+* [🕵♂ KYC Certificate](safu-kyc-audit/kyc-certificate.md)
+* [🕵♀ AUDIT Certificate](safu-kyc-audit/audit-certificate.md)
 
-***
+## Social Info
 
-* [Cavalier Spaniel Inu](https://kingcharlesspaniel.io/)
-* [Linktree](https://linktr.ee/cavalier\_spaniel\_inu)
+* [🇬🇧 Cavalier Spaniel Inu](https://kingcharlesspaniel.io/)
+* [🇬🇧 Linktree](https://linktr.ee/cavalier\_spaniel\_inu)
+* [🇬🇧 Twitter](https://twitter.com/KingCharlesInu)
+* [🇬🇧 Reddit](https://www.reddit.com/user/Cavalier\_Spaniel\_Inu)
+* [🇬🇧 Medium](https://medium.com/@Cavalier\_Spaniel\_Inu)
