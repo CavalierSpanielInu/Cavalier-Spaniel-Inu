@@ -29,3 +29,4 @@
 * [🇬🇧 Twitter](https://twitter.com/KingCharlesInu)
 * [🇬🇧 Reddit](https://www.reddit.com/user/Cavalier\_Spaniel\_Inu)
 * [🇬🇧 Medium](https://medium.com/@Cavalier\_Spaniel\_Inu)
+* [🇬🇧 Discord](https://discord.gg/mPsG4Jz3wK)
