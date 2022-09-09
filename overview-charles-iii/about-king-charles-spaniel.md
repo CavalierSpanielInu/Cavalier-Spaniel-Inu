@@ -17,5 +17,7 @@ These can be an event, an image, an opinion from an influencer, a video, a tweet
 
 The valuation of gem-currencies is strongly linked to the excitement of an online community about a certain topic. They ride the wave of the moment.
 
+<figure><img src="../.gitbook/assets/470377f0bd75edc4732dfdfefbf1ef79.jpg" alt=""><figcaption></figcaption></figure>
+
 
 

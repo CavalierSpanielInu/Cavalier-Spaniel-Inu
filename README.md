@@ -1,14 +1,17 @@
 ---
+description: History
 cover: .gitbook/assets/capa twitter.png
 coverY: 0
 ---
 
 # 👑 King Charles Spaniel
 
-Elizabeth II was known to be a dog aficionado, especially of the corgi breed. The animals were constant companions since the monarch's childhood. "She loved animals and she loved dogs. She always loved them, they were her first love and they will be her last."
+A variety of the spaniel dogs, the cavalier king charles spaniel was part of the European court in the 15th century. Immortalized in the art of renowned portraitists such as Van Dyck, Titian, Stubbs, Landseer, and Gainsborough, the cavalier was popularized by Queen Mary I of Scotland and Kings Charles I and II of England - hence the name "king charles spaniel. King Charles II, in fact, was so enamored with the breed that he issued a decree allowing spaniels to be present in any public place, including parliament.
 
-The queen's bond with the dog was so strong that after her marriage to Phillip, Elizabeth II took Susan hidden in the royal carriage as they headed inland. She would also have joined the new couple during their honeymoon in Scotland.
+Although it was a great favorite of British aristocrats until the 19th century, its popularity declined over time, and the breed's standards ceased to be followed for a period. In the late 19th century, for example, the breed began to be crossed with Asian toy dogs, such as Japanese pugs and spaniels, to reduce the size of their muzzles.
 
-'Sue', as she was called, lived until 1959. In addition to winning Elizabeth II's heart, she also spawned a long line of heirs, reaching her 14th generation, with around 30 descendants. The dog also led curious situations and even bit the heel of a Buckingham Palace employee.
+Interest in cavalier dogs was only resumed in the 1920s, when Roswell Eldridge, an American tycoon, intrigued by the breed depicted in paintings and portraits from the 15th century, offered a cash prize to anyone who could reproduce it according to the pictorial images of the time.
+
+## With these facts totally unique to the King Charles Spaniel, we decided to create a project about it and extend its entire dynasty, where it will now become one of the best known dogs in the world, and in addition to these historical factors, we will bring opportunities to our investors, with a decentralized and community-focused cryptocurrency with instant rewards thanks to active users!
 
 <figure><img src=".gitbook/assets/Untitled-3-Recovered copy.png" alt=""><figcaption></figcaption></figure>
