@@ -1,9 +1,9 @@
 ---
-cover: broken-reference
+cover: .gitbook/assets/capa twitter.png
 coverY: 0
 ---
 
-# 🐶 King Charles Spaniel
+# 👑 King Charles Spaniel
 
 
 

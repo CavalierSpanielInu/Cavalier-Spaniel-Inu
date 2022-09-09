@@ -1,21 +1,21 @@
 # Table of contents
 
-* [🐶 King Charles Spaniel](README.md)
+* [👑 King Charles Spaniel](README.md)
 
 ## Overview Charles III
 
-* [👑 About Cavalier Spaniel Inu](overview-charles-iii/about-cavalier-spaniel-inu.md)
-* [🐶 Instant Usage Rewards](overview-charles-iii/instant-usage-rewards.md)
-* [👑 Community Powered](overview-charles-iii/community-powered.md)
-* [Secure & Safe](overview-charles-iii/secure-and-safe.md)
-* [Decentralizad Exchange](overview-charles-iii/decentralizad-exchange.md)
-* [🐶 How to buy  Charles III ?](overview-charles-iii/how-to-buy-charles-iii.md)
+* [🐶 About Cavalier Spaniel Inu](overview-charles-iii/about-cavalier-spaniel-inu.md)
+* [👑 Instant Usage Rewards](overview-charles-iii/cavalier-spaniel-inu-wallet.md)
+* [🐶 Community Powered](overview-charles-iii/cavalier-spaniel-inu-blockchain.md)
+* [👑 Secure & Safe](overview-charles-iii/secure-and-safe.md)
+* [🐶 Decentralizad Exchange](overview-charles-iii/decentralizad-exchange.md)
+* [👑 How to buy  Charles III ?](overview-charles-iii/how-to-buy-charles-iii.md)
 
 ## Tokenomics Charles III
 
 * [👑 Allocation](tokenomics-charles-iii/allocation.md)
-* [🐶 CHARLES III fees](tokenomics-charles-iii/charles-iii-fees.md)
-* [👑 Moonmap](tokenomics-charles-iii/moonmap.md)
+* [🐶 CHARLES III fees](tokenomics-charles-iii/cavalier-spaniel-inu-fees.md)
+* [👑 Moonmap](tokenomics-charles-iii/roadmap.md)
 
 ## SAFU/ KYC/AUDIT&#x20;
 

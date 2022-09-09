@@ -1,9 +1,9 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/capa twitter.png
 coverY: 0
 ---
 
-# 🐶 How to buy  Charles III ?
+# 👑 How to buy  Charles III ?
 
 &#x20;**1. Step: Install Metamask for Chrome**
 

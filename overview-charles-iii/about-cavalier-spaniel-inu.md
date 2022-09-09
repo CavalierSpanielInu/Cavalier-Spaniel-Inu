@@ -3,7 +3,7 @@ cover: broken-reference
 coverY: 0
 ---
 
-# 👑 About Cavalier Spaniel Inu
+# 🐶 About Cavalier Spaniel Inu
 
 
 
