@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/capa gitbook.PNG
+cover: broken-reference
 coverY: 0
 ---
 

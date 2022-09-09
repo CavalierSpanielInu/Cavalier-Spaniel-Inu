@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/capa gitbook.PNG
+cover: broken-reference
 coverY: 0
 ---
 
-# 🐶 Cavalier Spaniel Inu fees
+# 🐶 CHARLES III fees
 
 ## :clap:1% on buys and 2% on sells.
 

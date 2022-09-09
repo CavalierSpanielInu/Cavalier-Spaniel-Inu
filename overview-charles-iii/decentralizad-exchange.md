@@ -1,0 +1,8 @@
+---
+coverY: 0
+---
+
+# Decentralizad Exchange
+
+**King Charles Spaniel Swap is the official decentralized exchange (DEX) of our community. It gives holders the ability to swap independently among each other any BEP20 token for**\
+**another one.**

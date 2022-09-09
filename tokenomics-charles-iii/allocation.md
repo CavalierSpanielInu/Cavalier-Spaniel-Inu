@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/capa gitbook.PNG
+cover: broken-reference
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 #### Total Supply: **1.000.000.000.000.000**
 
-**Project Name:Cavalier Spaniel Inu**
+**Project Name:King Charles Spaniel**
 
 **Symbol: Charles III**
 
