@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🐶 Cavalier Spaniel Inu](README.md)
+* [🐶 King Charles Spaniel](README.md)
 
 ## Overview Charles III
 
@@ -26,7 +26,7 @@
 
 * [🇬🇧 Cavalier Spaniel Inu](https://kingcharlesspaniel.io/)
 * [🇬🇧 Linktree](https://linktr.ee/kingCharlesSpaniel)
-* [🇬🇧 Twitter](https://twitter.com/KingCharlesInu)
+* [🇬🇧 Twitter](https://twitter.com/Charles3Spaniel)
 * [🇬🇧 Reddit](https://www.reddit.com/user/Cavalier\_Spaniel\_Inu)
 * [🇬🇧 Medium](https://medium.com/@KingCharlesSpaniel)
 * [🇬🇧 Discord](https://discord.gg/mPsG4Jz3wK)
