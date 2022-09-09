@@ -1,9 +1,9 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/capa twitter.png
 coverY: 0
 ---
 
-# 🐶 About Cavalier Spaniel Inu
+# 🐶 About King Charles Spaniel
 
 
 

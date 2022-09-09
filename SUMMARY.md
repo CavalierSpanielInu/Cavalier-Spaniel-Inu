@@ -4,7 +4,7 @@
 
 ## Overview Charles III
 
-* [🐶 About Cavalier Spaniel Inu](overview-charles-iii/about-cavalier-spaniel-inu.md)
+* [🐶 About King Charles Spaniel](overview-charles-iii/about-king-charles-spaniel.md)
 * [👑 Instant Usage Rewards](overview-charles-iii/cavalier-spaniel-inu-wallet.md)
 * [🐶 Community Powered](overview-charles-iii/cavalier-spaniel-inu-blockchain.md)
 * [👑 Secure & Safe](overview-charles-iii/secure-and-safe.md)
