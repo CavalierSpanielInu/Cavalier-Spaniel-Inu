@@ -5,7 +5,7 @@ coverY: 0
 
 # 👑 Allocation
 
-#### Total Supply: **1.000.000.000.000.000**
+#### Total Supply: **300,000**
 
 **Project Name:King Charles Spaniel**
 
