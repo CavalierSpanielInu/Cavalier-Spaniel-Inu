@@ -26,10 +26,10 @@
 
 ## Social Info
 
-* [🇬🇧 Cavalier Spaniel Inu](https://kingcharlesspaniel.io/)
+* [🇬🇧 King Charles Spaniel](https://kingcharlesspaniel.io/)
 * [🇬🇧 Linktree](https://linktr.ee/kingCharlesSpaniel)
 * [🇬🇧 Twitter](https://twitter.com/Charles3Spaniel)
 * [🇬🇧 Reddit](https://www.reddit.com/user/KingCharlesSpaniel\_)
 * [🇬🇧 Medium](https://medium.com/@KingCharlesSpaniel)
 * [🇬🇧 Discord](https://discord.gg/mPsG4Jz3wK)
-* [🇬🇧 Telegram](https://t.me/KingCharlesSpanielUK)
+* [🇬🇧 Telegram](https://t.me/KingCharlesSpanielChannel)
