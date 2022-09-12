@@ -5,4 +5,4 @@ coverY: 0
 
 # 🕵♂ KYC Certificate
 
-Coming soon...
+{% embed url="https://t.me/KingCharlesSpanielUK" %}
