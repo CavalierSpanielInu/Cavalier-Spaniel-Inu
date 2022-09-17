@@ -17,12 +17,15 @@
 * [🐶 CHARLES III fees](tokenomics-charles-iii/cavalier-spaniel-inu-fees.md)
 * [👑 Moonmap](tokenomics-charles-iii/roadmap.md)
 
+## Fairlaunch
+
+* [🏆 Fairlaunch PINKSALE](https://www.pinksale.finance/launchpad/0x992f6c6702C8EAFd2EDb9399D3Bae7ed3c5dFd32?chain=BSC)
+
 ## SAFU/ KYC/AUDIT&#x20;
 
 * [🕵♀ BSC Contract](safu-kyc-audit/bsc-contract.md)
 * [🕵 SAFU Certificate](safu-kyc-audit/safu-certificate.md)
 * [🕵♂ KYC Certificate](safu-kyc-audit/kyc-certificate.md)
-* [🕵♀ AUDIT Certificate](safu-kyc-audit/audit-certificate.md)
 
 ## Social Info
 
