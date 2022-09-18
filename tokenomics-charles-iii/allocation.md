@@ -5,7 +5,7 @@ coverY: 0
 
 # 👑 Allocation
 
-#### Total Supply: **300,000**
+#### Total Supply: **300,000 Charles III**
 
 **Project Name:King Charles Spaniel**
 
@@ -13,20 +13,20 @@ coverY: 0
 
 **Blockchain:** **BEP20**
 
-* [x] **Presale: 23%**
-* [x] **Liquidity: 12.673%**
-* [x] **Reserve CEX: 10%**
-* [x] **Burnt: 50.327%**
-* [x] **Airdrop and Promotions: 4%**
+* [x] **Presale: 30%**
+* [x] **Liquidity: 17.1%**
+* [x] **VC Funding II: 10%**
+* [x] **Burnt: 37.9%**
+* [x] **VC Token Release: 5%**
 
-**Presale Start Time:**&#x20;
+**Presale Start Time: 2022.09.20 15:00 (UTC)**
 
-**Presale End Time:**&#x20;
+**Presale End Time:** **2022.09.21 15:30 (UTC)**
 
 **Listing On**: **PancakeSwap**
 
-**Tokens For Presale:**&#x20;
+**Tokens For Presale: 90,000 Charles III**
 
-**Tokens For Liquidity:**
+**Tokens For Liquidity: 51.300 Charles III**
 
 **Soft Cap: 50 BNB**
