@@ -26,6 +26,7 @@
 * [🕵♀ BSC Contract](safu-kyc-audit/bsc-contract.md)
 * [🕵 SAFU Certificate](safu-kyc-audit/safu-certificate.md)
 * [🕵♂ KYC Certificate](safu-kyc-audit/kyc-certificate.md)
+* [🕵♀ AUDIT Certificate](safu-kyc-audit/audit-certificate.md)
 
 ## Social Info
 
